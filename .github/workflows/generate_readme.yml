@@ -50,6 +50,7 @@ jobs:
           super_secret: ${{ secrets.GIT_T }}
         run: |
           source venv/bin/activate
+          echo "$super_secret"
           python main.py "$super_secret" ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
       - name: Push README
