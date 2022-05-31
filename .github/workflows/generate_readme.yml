@@ -46,12 +46,9 @@ jobs:
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
       - name: Generate new md # if you fork or clone this repo, please delete the curl line unless you know why
-        env: # Or as an environment variable
-          super_secret: ${{ secrets.GIT_T }}
         run: |
           source venv/bin/activate
-          echo "$super_secret"
-          python main.py "$super_secret" ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+          python main.py ${{ github.github_token }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
       - name: Push README
         run: |
