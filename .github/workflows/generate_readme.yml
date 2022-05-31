@@ -45,10 +45,16 @@ jobs:
           pip install -r requirements.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
+      - name: Hello world action
+        with: # Set the secret as an input
+          super_secret: ${{ secrets.GIT_T }}
+        env: # Or as an environment variable
+          super_secret: ${{ secrets.GIT_T }} 
+
       - name: Generate new md # if you fork or clone this repo, please delete the curl line unless you know why
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.GIT_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+          python main.py "$super_secret" ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
       - name: Push README
         run: |
