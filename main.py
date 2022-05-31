@@ -8,10 +8,10 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
-"""
+MD_HEAD = '''
+laugh and cry 
+'''
+
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
@@ -31,7 +31,6 @@ FRIENDS_INFO_DICT = {
 
 def get_me(user):
     return user.get_user().login
-
 
 def is_me(issue, me):
     return issue.user.login == me
