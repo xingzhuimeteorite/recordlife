@@ -9,7 +9,8 @@ from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
 MD_HEAD = '''
-laugh and cry 
+laugh and cry
+{repo_name}
 '''
 
 
@@ -117,7 +118,9 @@ def get_issues_from_label(repo, label):
 
 
 def add_issue_info(issue, md):
+    #get time 
     time = format_time(issue.created_at)
+    #get title and link(markdown)
     md.write(f"- [{issue.title}]({issue.html_url})--{time}\n")
 
 
@@ -136,8 +139,25 @@ def add_md_todo(repo, md, me):
                 # new line
                 md.write("\n")
 
+def add_md_movie(repo, md, me):
+    # movie
+    movie_issues = list(repo.get_issues(labels=["MOVIE"]))
+    if not movie_issues:
+        return
+    with open(md, "a+", encoding="utf-8") as md:
+        md.write("## movie\n")
+        for issue in movie_issues:
+            if is_me(issue, me):
+                todo_title, todo_list = parse_TODO(issue)
+                md.write("movie list from " + todo_title + "\n")
+                for t in todo_list:
+                    md.write(t + "\n")
+                # new line
+                md.write("\n")
+
 
 def add_md_top(repo, md, me):
+    # pages to top
     top_issues = list(get_top_issues(repo))
     if not TOP_ISSUES_LABELS or not top_issues:
         return
@@ -256,12 +276,22 @@ def generate_rss_feed(repo, filename, me):
 
 
 def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
+    '''
+    token:github_token
+        fork repo can not use this token , it is in word(git_action)     
+    repo_name:repo_name
+    issue_number:issue_number
+    dir_name:backup_dirv
+        exits pages
+    '''
     user = login(token)
     me = get_me(user)
     repo = get_repo(user, repo_name)
     # add to readme one by one, change order here
     add_md_header("README.md", repo_name)
-    for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
+    # generate file head 
+    # recycle the fun to generate redeme.md
+    for func in [ add_md_top, add_md_recent, add_md_label, add_md_todo,add_md_movie]:
         func(repo, "README.md", me)
 
     generate_rss_feed(repo, "feed.xml", me)
