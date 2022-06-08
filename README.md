@@ -1,8 +1,6 @@
 
-laugh and cry 
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
+laugh and cry
+xingzhuimeteorite/recordlife
 ## 最近更新
 - [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2022-06-08
 - [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--2022-06-07
@@ -21,4 +19,9 @@ TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/is
 
 TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--1 jobs to do--0 jobs done
 - [ ] shotcut 安装
+
+## movie
+movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--1 jobs to do--1 jobs done
+- [x] 瞬息全宇宙
+- [ ] 奇异博士2
 
