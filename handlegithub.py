@@ -10,4 +10,7 @@ g = Github(Github_token)
 for repo in g.get_user().get_repos():
     print(repo.name)
 
+repo = g.get_repo("xingzhuimeteorite/gitblog")
+
+repo.get_issues()
 

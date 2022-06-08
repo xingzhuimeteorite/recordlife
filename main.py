@@ -18,6 +18,7 @@ BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
+MOVIE_ISSUES_LABELS = ["MOVIE"]
 FRIENDS_LABELS = ["Friends"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
@@ -108,6 +109,8 @@ def get_top_issues(repo):
 def get_todo_issues(repo):
     return repo.get_issues(labels=TODO_ISSUES_LABELS)
 
+def get_movie_issues(repo):
+    return repo.get_issues(labels=MOVIE_ISSUES_LABELS)
 
 def get_repo_labels(repo):
     return [l for l in repo.get_labels()]
@@ -141,7 +144,7 @@ def add_md_todo(repo, md, me):
 
 def add_md_movie(repo, md, me):
     # movie
-    movie_issues = list(repo.get_issues(labels=["MOVIE"]))
+    movie_issues = list(get_movie_issues(repo))
     if not movie_issues:
         return
     with open(md, "a+", encoding="utf-8") as md:
@@ -171,6 +174,8 @@ def add_md_top(repo, md, me):
 def add_md_firends(repo, md, me):
     s = FRIENDS_TABLE_HEAD
     friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
+    if not FRIENDS_LABELS or not friends_issues:
+        return
     for issue in friends_issues:
         for comment in issue.get_comments():
             if is_hearted_by_me(comment, me):
