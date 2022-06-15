@@ -11,9 +11,12 @@ xingzhuimeteorite/recordlife
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1 jobs to do--0 jobs done
 - [ ] 随身wifi刷openwrt
 
-TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--2 jobs to do--0 jobs done
+TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--0 jobs done
 - [ ] 代码大全
 - [ ] 人月神话 
+- [ ] 程序员修炼之道-从小工到专家
+- [ ] 万物发明指南
+- [ ] DDIA
 
 TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--3 jobs to do--0 jobs done
 - [ ] shotcut 安装
