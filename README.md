@@ -2,11 +2,11 @@
 laugh and cry
 xingzhuimeteorite/recordlife
 ## 最近更新
+- [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--2022-06-17
 - [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2022-06-08
 - [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--2022-06-07
 - [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--2022-06-07
 - [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--2022-06-04
-- [关于娱乐](https://github.com/xingzhuimeteorite/recordlife/issues/2)--2022-06-01
 ## TODO
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1 jobs to do--0 jobs done
 - [ ] 随身wifi刷openwrt
