@@ -2,12 +2,20 @@
 laugh and cry
 xingzhuimeteorite/recordlife
 ## 最近更新
+- [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--2022-06-17
 - [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--2022-06-17
 - [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2022-06-08
 - [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--2022-06-07
 - [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--2022-06-07
-- [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--2022-06-04
 ## TODO
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--0 jobs done
+- [ ] 怪奇物语 
+
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--3 jobs to do--0 jobs done
+- [ ] 进击的巨人
+- [ ] 间谍过家家
+- [ ] 冰海战记
+
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1 jobs to do--0 jobs done
 - [ ] 随身wifi刷openwrt
 
