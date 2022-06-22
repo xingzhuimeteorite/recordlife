@@ -11,8 +11,7 @@ xingzhuimeteorite/recordlife
 TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--1 jobs to do--0 jobs done
 - [ ]  怪物猎人-崛起
 
-TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--1 jobs to do--0 jobs done
-- [ ] 爱的艺术
+TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10) all done
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--0 jobs done
 - [ ] 怪奇物语 
