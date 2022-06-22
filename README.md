@@ -2,12 +2,15 @@
 laugh and cry
 xingzhuimeteorite/recordlife
 ## 最近更新
+- [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--2022-06-22
 - [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--2022-06-21
 - [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--2022-06-17
 - [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--2022-06-17
 - [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2022-06-08
-- [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--2022-06-07
 ## TODO
+TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--1 jobs to do--0 jobs done
+- [ ]  怪物猎人-崛起
+
 TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--1 jobs to do--0 jobs done
 - [ ] 爱的艺术
 
