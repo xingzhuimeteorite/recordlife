@@ -21,4 +21,10 @@ def test_login():
     name = user.get_user().login
     repo = user.get_repo('xingzhuimeteorite/gitblog')
     # assert repo == 'gitblog'
-    assert name == 'xingzhuimeteorite'
+    assert name == 'xingzhuimeteorite' 
+
+def test_add_goldword():
+    user = main.login(token)
+    repo = user.get_repo('xingzhuimeteorite/gitblog')
+    issese = repo.get_issues()
+    

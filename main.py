@@ -119,6 +119,8 @@ def get_repo_labels(repo):
 def get_issues_from_label(repo, label):
     return repo.get_issues(labels=(label,))
 
+def label_by_name(repo,name):
+    return repo.get_lable(name)
 
 def add_issue_info(issue, md):
     #get time 
@@ -203,6 +205,22 @@ def add_md_recent(repo, md, me, limit=5):
                         break
         except:
             return
+
+def add_gold_word(repo,md,me,limit=5):
+    label = label_by_name(repo,'GOLDWORD')
+    issues = repo.get_issues(label=[label])
+    count = 0 
+    with open(md,"a+",encoding="utf-8") as md:
+        md.write("## GOLDWORD\n ")
+        for i in [comment for comment in issues.get_comments()]:
+            md.write("```\n")
+            md.write(i.body())
+            md.write("```\n")
+            count += 1 
+            if count >= limit:
+                break
+        
+
 
 
 def add_md_header(md, repo_name):
@@ -296,7 +314,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     add_md_header("README.md", repo_name)
     # generate file head 
     # recycle the fun to generate redeme.md
-    for func in [ add_md_top, add_md_recent, add_md_label, add_md_todo,add_md_movie]:
+    for func in [ add_md_top, add_md_recent, add_md_label, add_md_todo,add_md_movie,add_gold_word]:
         func(repo, "README.md", me)
 
     generate_rss_feed(repo, "feed.xml", me)
