@@ -120,7 +120,7 @@ def get_issues_from_label(repo, label):
     return repo.get_issues(labels=(label,))
 
 def label_by_name(repo,name):
-    return repo.get_lable(name)
+    return repo.get_label(name)
 
 def add_issue_info(issue, md):
     #get time 
