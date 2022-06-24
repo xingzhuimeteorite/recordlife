@@ -214,7 +214,7 @@ def add_gold_word(repo,md,me,limit=5):
         md.write("## GOLDWORD\n ")
         for i in [c for issue in issues for c in issue.get_comments() ]:
             md.write("```\n")
-            md.write(i.body())
+            md.write(i.body)
             md.write("```\n")
             count += 1 
             if count >= limit:
