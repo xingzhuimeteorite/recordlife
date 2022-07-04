@@ -17,8 +17,7 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [x] 爱的艺术
 - [ ] 黄金时代
 
-TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--0 jobs done
-- [ ] 怪奇物语 
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9) all done
 
 TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--3 jobs to do--0 jobs done
 - [ ] 进击的巨人
