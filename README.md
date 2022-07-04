@@ -21,7 +21,12 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1
 - [x] 怪奇物语 4 season
 - [ ] 西部世界
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8) all done
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--1 jobs to do--4 jobs done
+- [x] 进击的巨人
+- [x] 间谍过家家
+- [x] 冰海战记
+- [x] 咒术回战 
+- [ ] 东京喰种
 
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1 jobs to do--0 jobs done
 - [ ] 随身wifi刷openwrt
