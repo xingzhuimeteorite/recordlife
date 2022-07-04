@@ -19,10 +19,7 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9) all done
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--3 jobs to do--0 jobs done
-- [ ] 进击的巨人
-- [ ] 间谍过家家
-- [ ] 冰海战记
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8) all done
 
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1 jobs to do--0 jobs done
 - [ ] 随身wifi刷openwrt
