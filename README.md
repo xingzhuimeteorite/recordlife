@@ -13,10 +13,11 @@ xingzhuimeteorite/recordlife
 TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--1 jobs to do--0 jobs done
 - [ ]  怪物猎人-崛起
 
-TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--1 jobs to do--2 jobs done
+TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--2 jobs to do--2 jobs done
 - [x] 爱的艺术
 - [x] 我的精神家园  -王小波
 - [ ] 黄金时代
+- [ ] 青铜时代（红拂夜奔）
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--1 jobs done
 - [x] 怪奇物语 4 season
