@@ -31,10 +31,12 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] jojo的奇妙冒险
 - [ ] 罪恶王冠
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--3 jobs to do--0 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--4 jobs to do--1 jobs done
+- [x] 华硕梅林路由器
 - [ ] 随身wifi刷openwrt
-- [ ] 华硕梅林路由器
 - [ ] 小米电视去广告
+- [ ] grpc demo
+- [ ] 读取视频流 
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--1 jobs done
 - [x] 程序员修炼之道-从小工到专家
