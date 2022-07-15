@@ -13,21 +13,23 @@ xingzhuimeteorite/recordlife
 TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--1 jobs to do--0 jobs done
 - [ ]  怪物猎人-崛起
 
-TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--1 jobs to do--1 jobs done
+TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--2 jobs to do--1 jobs done
 - [x] 爱的艺术
 - [ ] 黄金时代
+- [ ] 我的精神家园  -王小波
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--1 jobs done
 - [x] 怪奇物语 4 season
 - [ ] 西部世界
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--2 jobs to do--4 jobs done
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--3 jobs to do--4 jobs done
 - [x] 进击的巨人
 - [x] 间谍过家家
 - [x] 冰海战记
 - [x] 咒术回战 
 - [ ] 东京喰种
 - [ ] jojo的奇妙冒险
+- [ ] 罪恶王冠
 
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1 jobs to do--0 jobs done
 - [ ] 随身wifi刷openwrt
