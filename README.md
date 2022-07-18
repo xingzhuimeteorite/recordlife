@@ -29,7 +29,7 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [x] 冰海战记
 - [x] 咒术回战 
 - [ ] 东京喰种
-- [ ] jojo的奇妙冒险
+- [ ] jojo的奇妙冒险(石之海)
 - [ ] 罪恶王冠
 - [ ] 约定的梦幻岛
 
