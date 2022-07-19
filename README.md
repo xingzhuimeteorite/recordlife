@@ -60,7 +60,10 @@ TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ]  剪辑那段语音文字
 
 ## movie
-movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5) all done
+movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--1 jobs to do--2 jobs done
+- [x] 奇异博士2
+- [x] 瞬息全宇宙
+- [ ] 超能一家人
 
 ## GOLDWORD
  ```
