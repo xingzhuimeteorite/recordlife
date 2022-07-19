@@ -51,7 +51,7 @@ TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 代码大全
 - [ ] 人月神话 
 - [ ] DDIA
-- [ ] 计算机网络
+- [ ] 计算机网络（自顶向下方法）
 
 TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--4 jobs to do--0 jobs done
 - [ ] shotcut 安装
