@@ -38,9 +38,9 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] 约定的梦幻岛
 - [ ] fate zero
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--4 jobs to do--1 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--3 jobs to do--2 jobs done
+- [x] 随身wifi刷openwrt
 - [x] 华硕梅林路由器
-- [ ] 随身wifi刷openwrt
 - [ ] 小米电视去广告
 - [ ] grpc demo
 - [ ] 读取视频流 
