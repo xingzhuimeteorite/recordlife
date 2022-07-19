@@ -45,13 +45,14 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--3
 - [ ] grpc demo
 - [ ] 读取视频流 
 
-TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--2 jobs done
+TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--2 jobs done
 - [x] 程序员修炼之道-从小工到专家
 - [x] 计算机程序的构造和解释
 - [ ] 代码大全
 - [ ] 人月神话 
 - [ ] DDIA
 - [ ] 计算机网络（自顶向下方法）
+- [ ] MIT-IAP 网站小课 
 
 TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--4 jobs to do--0 jobs done
 - [ ] shotcut 安装
