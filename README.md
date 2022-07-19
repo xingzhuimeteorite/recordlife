@@ -27,12 +27,12 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1
 - [x] 怪奇物语 4 season
 - [ ] 西部世界
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--5 jobs to do--4 jobs done
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--5 jobs done
 - [x] 进击的巨人
 - [x] 间谍过家家
 - [x] 冰海战记
 - [x] 咒术回战 
-- [ ] 东京喰种
+- [x] 东京喰种
 - [ ] jojo的奇妙冒险(石之海)
 - [ ] 罪恶王冠
 - [ ] 约定的梦幻岛
