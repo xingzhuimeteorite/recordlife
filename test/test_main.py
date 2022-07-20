@@ -10,7 +10,7 @@ def test_main():
     """
     Test main function.
     """
-    main.main(Github_token, 'xingzhuimeteorite/gitblog')
+    main.main(Github_token, 'xingzhuimeteorite/recordlife')
 
 
 def test_login():

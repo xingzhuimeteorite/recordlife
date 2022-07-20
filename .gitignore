@@ -3,3 +3,6 @@ nohup.out
 .git-credentials
 venv/
 configinfo.py
+BACKUP/
+feed.xml
+README.md

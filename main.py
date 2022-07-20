@@ -91,6 +91,8 @@ def get_repo(user: Github, repo: str):
 
 def parse_TODO(issue):
     body = issue.body.splitlines()
+    comment = [i.body for i in list(issue.get_comments()) if not i is None and  is_me(i,issue.user.login)]
+    body = body + comment
     todo_undone = [l for l in body if l.startswith("- [ ] ")]
     todo_done = [l for l in body if l.startswith("- [x] ")]
     # just add info all done
