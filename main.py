@@ -96,8 +96,8 @@ def fill_None(object,fill):
 
 def parse_TODO(issue):
     body = issue.body.splitlines()
-    body = [i + ' ' + fill_None(issue.updated_at,'') for i in body ]
-    comment = [i.body+ ' ' +fill_None(i.updated_at,'') for i in list(issue.get_comments()) if not i is None and  is_me(i,issue.user.login)]
+    body = [i + ' ' + format_time(fill_None(issue.updated_at,'')) for i in body ]
+    comment = [i.body+ ' ' +format_time(fill_None(i.updated_at,'')) for i in list(issue.get_comments()) if not i is None and  is_me(i,issue.user.login)]
     body = body + comment
     todo_undone = [l for l in body if l.startswith("- [ ] ")]
     todo_done = [l for l in body if l.startswith("- [x] ")]
