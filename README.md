@@ -54,10 +54,9 @@ TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 计算机网络（自顶向下方法）
 - [ ] MIT-IAP 网站小课 
 
-TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--4 jobs to do--0 jobs done
+TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--3 jobs to do--0 jobs done
 - [ ] shotcut 安装
 - [ ] 飞盘素材的粗剪辑
-- [ ]  模仿b站高级灵魂张斯瑞 制作vlog
 - [ ]  剪辑那段语音文字
 
 ## movie
