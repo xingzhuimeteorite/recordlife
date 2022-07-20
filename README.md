@@ -38,12 +38,13 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] 约定的梦幻岛
 - [ ] fate zero
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--3 jobs to do--2 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--4 jobs to do--2 jobs done
 - [x] 随身wifi刷openwrt
 - [x] 华硕梅林路由器
 - [ ] 小米电视去广告
 - [ ] grpc demo
 - [ ] 读取视频流 
+- [ ] 学习vim里debug
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--2 jobs done
 - [x] 程序员修炼之道-从小工到专家
@@ -54,10 +55,11 @@ TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 计算机网络（自顶向下方法）
 - [ ] MIT-IAP 网站小课 
 
-TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--3 jobs to do--0 jobs done
+TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--4 jobs to do--0 jobs done
 - [ ] shotcut 安装
 - [ ] 飞盘素材的粗剪辑
 - [ ]  剪辑那段语音文字
+- [ ] 模仿b站高级灵魂张斯瑞 制作vlog
 
 ## movie
 movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--1 jobs to do--2 jobs done
