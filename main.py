@@ -88,10 +88,16 @@ def login(token):
 def get_repo(user: Github, repo: str):
     return user.get_repo(repo)
 
+def fill_None(object,fill):
+    if object is None:
+        return fill
+    else :
+        return str(object)
 
 def parse_TODO(issue):
     body = issue.body.splitlines()
-    comment = [i.body for i in list(issue.get_comments()) if not i is None and  is_me(i,issue.user.login)]
+    body = [i + ' ' + fill_None(issue.updated_at,'') for i in body ]
+    comment = [i.body+ ' ' +fill_None(i.updated_at,'') for i in list(issue.get_comments()) if not i is None and  is_me(i,issue.user.login)]
     body = body + comment
     todo_undone = [l for l in body if l.startswith("- [ ] ")]
     todo_done = [l for l in body if l.startswith("- [x] ")]
