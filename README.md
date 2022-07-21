@@ -13,16 +13,18 @@ xingzhuimeteorite/recordlife
 TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--1 jobs to do--0 jobs done
 - [ ]  怪物猎人-崛起 2022-06-22
 
-TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--5 jobs to do--4 jobs done
-- [x] 爱的艺术 2022-07-20
-- [x] 黄金时代 2022-07-20
-- [x] 我的精神家园  -王小波 2022-07-20
-- [x] 三体 2022-07-20
-- [ ] 青铜时代（红拂夜奔） 2022-07-20
-- [ ] 人类简史三部曲 2022-07-20
-- [ ] 龙族 2022-07-20
-- [ ] 简单的逻辑学 2022-07-20
+TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--6 jobs to do--5 jobs done
+- [x] 爱的艺术 2022-07-21
+- [x] 黄金时代 2022-07-21
+- [x] 我的精神家园  -王小波 2022-07-21
+- [x] 三体 2022-07-21
+- [x] 简单的逻辑学 2022-07-21
+- [ ] 青铜时代（红拂夜奔） 2022-07-21
+- [ ] 人类简史三部曲 2022-07-21
+- [ ] 龙族 2022-07-21
 - [ ] 人的脑洞略大于整个宇宙 2022-07-20
+- [ ] 杀死一只知更鸟  2022-07-21
+- [ ] 卫斯理系列 2022-07-21
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--1 jobs done
 - [x] 怪奇物语 4 season 2022-07-04
