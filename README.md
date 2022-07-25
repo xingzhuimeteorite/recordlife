@@ -31,7 +31,7 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--3
 - [x] 怪奇物语 4 season 2022-07-25
 - [ ] 西部世界 2022-07-25
 - [ ] 捍卫者联盟 2022-07-25
-- [ ] I am groot 2022-07-25
+- [ ] I am groot(disny+ 新剧 08-10) 2022-07-25
 
 TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--5 jobs done
 - [x] 进击的巨人 2022-07-19
