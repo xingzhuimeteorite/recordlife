@@ -27,9 +27,11 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 杀死一只知更鸟  2022-07-21
 - [ ] 卫斯理系列 2022-07-21
 
-TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--1 jobs to do--1 jobs done
-- [x] 怪奇物语 4 season 2022-07-04
-- [ ] 西部世界 2022-07-04
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--3 jobs to do--1 jobs done
+- [x] 怪奇物语 4 season 2022-07-25
+- [ ] 西部世界 2022-07-25
+- [ ] 捍卫者联盟 2022-07-25
+- [ ] I am groot 2022-07-25
 
 TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--5 jobs done
 - [x] 进击的巨人 2022-07-19
