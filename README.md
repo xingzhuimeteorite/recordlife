@@ -42,13 +42,14 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] 约定的梦幻岛 2022-07-19
 - [ ] fate zero 2022-07-19
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--4 jobs to do--2 jobs done
-- [x] 随身wifi刷openwrt 2022-07-19
-- [x] 华硕梅林路由器 2022-07-19
-- [ ] 小米电视去广告 2022-07-19
-- [ ] grpc demo 2022-07-19
-- [ ] 读取视频流  2022-07-19
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--4 jobs to do--3 jobs done
+- [x] 随身wifi刷openwrt 2022-07-25
+- [x] 华硕梅林路由器 2022-07-25
+- [x] 小米电视去广告 2022-07-25
+- [ ] grpc demo 2022-07-25
+- [ ] 读取视频流  2022-07-25
 - [ ] 学习vim里debug 2022-07-19
+- [ ] 实时加密的文本编辑器 2022-07-25
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--2 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-07-19
