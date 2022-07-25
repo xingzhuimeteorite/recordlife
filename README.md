@@ -59,11 +59,12 @@ TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 计算机网络（自顶向下方法） 2022-07-19
 - [ ] MIT-IAP 网站小课  2022-07-19
 
-TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--4 jobs to do--0 jobs done
-- [ ] shotcut 安装 2022-07-20
-- [ ] 飞盘素材的粗剪辑 2022-07-20
-- [ ]  剪辑那段语音文字 2022-07-20
+TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--5 jobs to do--0 jobs done
+- [ ] shotcut 安装 2022-07-25
+- [ ] 飞盘素材的粗剪辑 2022-07-25
+- [ ]  剪辑那段语音文字 2022-07-25
 - [ ] 模仿b站高级灵魂张斯瑞 制作vlog 2022-06-15
+- [ ] 剪辑滑雪的片段 2022-07-25
 
 ## movie
 movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--1 jobs to do--2 jobs done
