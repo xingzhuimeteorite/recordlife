@@ -49,7 +49,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--5
 - [ ] grpc demo 2022-07-25
 - [ ] 读取视频流  2022-07-25
 - [ ] 学习vim里debug 2022-07-19
-- [ ] ~~ 实时加密的文本编辑器 ~~ 2022-07-25
+- [ ] ~~实时加密的文本编辑器~~ 2022-07-25
 - [ ] 小米IOT开发平台  联动小爱同学 2022-07-25
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--2 jobs done
