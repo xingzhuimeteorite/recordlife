@@ -65,7 +65,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--9
 - [ ] 邮箱过滤处理邮件 2022-08-11
 - [ ] 笔记  网络文章的互链 tt 相关软件的调研  2022-08-17
 
-TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--8 jobs to do--2 jobs done
+TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--10 jobs to do--2 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-08-26
 - [x] 计算机程序的构造和解释 2022-08-26
 - [ ] 代码大全 2022-08-26
@@ -77,6 +77,8 @@ TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] DDIA 2022-08-26
 - [ ] 计算机网络（自顶向下方法）
  2022-08-26
+- [ ] MIT-IAP 网站小课  2022-08-26
+- [ ] 人月神话  2022-08-26
 
 TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--5 jobs to do--0 jobs done
 - [ ] shotcut 安装 2022-07-25
