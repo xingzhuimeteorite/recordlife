@@ -38,7 +38,7 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--3
 - [ ] I am groot(disny+ 新剧 08-10) 2022-07-25
 - [ ] 风骚律师 2022-08-17
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--2 jobs to do--7 jobs done
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--7 jobs done
 - [x] 进击的巨人 2022-08-26
 - [x] 间谍过家家 2022-08-26
 - [x] 冰海战记 2022-08-26
@@ -46,6 +46,8 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [x] 东京喰种 2022-08-26
 - [x] 罪恶王冠 2022-08-26
 - [x] 约定的梦幻岛 2022-08-26
+- [ ] jojo的奇妙冒险(石之海) 2022-08-26
+- [ ] fate zero 2022-08-26
 - [ ] jojo的奇妙冒险(石之海) 2022-08-26
 - [ ] fate zero 2022-08-26
 
