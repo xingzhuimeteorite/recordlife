@@ -10,9 +10,10 @@ xingzhuimeteorite/recordlife
 ## GOLDWORD
 - [书摘](https://github.com/xingzhuimeteorite/recordlife/issues/2)--2022-06-01
 ## TODO
-TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--2 jobs to do--0 jobs done
-- [ ]  怪物猎人-崛起 2022-08-19
+TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--3 jobs to do--0 jobs done
+- [ ]  怪物猎人-崛起 2022-08-26
 - [ ] 脑航员2 2022-08-19
+- [ ] 养只边牧去放羊 2022-08-26
 
 TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--5 jobs to do--7 jobs done
 - [x] 爱的艺术 2022-07-28
