@@ -15,13 +15,13 @@ TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/1
 - [ ] 脑航员2 2022-08-19
 - [ ] 养只边牧去放羊 2022-08-26
 
-TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--5 jobs to do--7 jobs done
-- [x] 爱的艺术 2022-07-28
-- [x] 黄金时代 2022-07-28
-- [x] 我的精神家园  -王小波 2022-07-28
-- [x] 红拂夜奔 2022-07-28
-- [x] 三体 2022-07-28
-- [x] 简单的逻辑学 2022-07-28
+TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--6 jobs to do--7 jobs done
+- [x] 爱的艺术 2022-09-13
+- [x] 黄金时代 2022-09-13
+- [x] 我的精神家园  -王小波 2022-09-13
+- [x] 红拂夜奔 2022-09-13
+- [x] 三体 2022-09-13
+- [x] 简单的逻辑学 2022-09-13
 - [x] 习惯的力量 2022-07-22
 - [ ] 人的脑洞略大于整个宇宙 2022-07-20
 - [ ] 杀死一只知更鸟  2022-07-21
@@ -29,6 +29,7 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 人类简史三部曲
  2022-07-28
 - [ ] 龙族 2022-07-28
+- [ ] 《大问题》 2022-09-13
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--4 jobs to do--3 jobs done
 - [x] 怪奇物语 4 season 2022-08-28
