@@ -40,19 +40,20 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--4
 - [ ] 风骚律师 2022-08-17
 - [ ] 老友记 2022-08-28
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--8 jobs done
-- [x] 进击的巨人 2022-09-08
-- [x] 间谍过家家 2022-09-08
-- [x] 冰海战记 2022-09-08
-- [x] 咒术回战  2022-09-08
-- [x] 东京喰种 2022-09-08
-- [x] 罪恶王冠 2022-09-08
-- [x] 约定的梦幻岛 2022-09-08
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--5 jobs to do--8 jobs done
+- [x] 进击的巨人 2022-09-14
+- [x] 间谍过家家 2022-09-14
+- [x] 冰海战记 2022-09-14
+- [x] 咒术回战  2022-09-14
+- [x] 东京喰种 2022-09-14
+- [x] 罪恶王冠 2022-09-14
+- [x] 约定的梦幻岛 2022-09-14
 - [x] jojo的奇妙冒险1 2022-09-08
-- [ ] jojo的奇妙冒险(石之海) 2022-09-08
-- [ ] fate zero 2022-09-08
+- [ ] jojo的奇妙冒险(石之海) 2022-09-14
+- [ ] fate zero 2022-09-14
 - [ ] jojo的奇妙冒险(石之海) 2022-08-26
 - [ ] fate zero 2022-08-26
+- [ ] Rick and Morty 2022-09-14
 
 TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--10 jobs to do--3 jobs done
 - [x] 随身wifi刷openwrt 2022-09-04
