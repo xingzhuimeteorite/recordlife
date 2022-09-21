@@ -10,11 +10,12 @@ xingzhuimeteorite/recordlife
 ## GOLDWORD
 - [书摘](https://github.com/xingzhuimeteorite/recordlife/issues/2)--2022-06-01
 ## TODO
-TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--4 jobs to do--0 jobs done
+TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--5 jobs to do--0 jobs done
 - [ ]  怪物猎人-崛起 2022-09-21
 - [ ] 脑航员2 2022-08-19
 - [ ] 养只边牧去放羊 2022-08-26
 - [ ] 喷射战士3 2022-09-21
+- [ ] tunic 2022-09-21
 
 TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--6 jobs to do--7 jobs done
 - [x] 爱的艺术 2022-09-13
@@ -32,12 +33,12 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 龙族 2022-07-28
 - [ ] 《大问题》 2022-09-13
 
-TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--4 jobs to do--3 jobs done
-- [x] 怪奇物语 4 season 2022-08-28
-- [x] 西部世界 2022-08-28
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--2 jobs to do--5 jobs done
+- [x] 怪奇物语 4 season 2022-09-21
+- [x] 西部世界 2022-09-21
+- [x] 捍卫者联盟 2022-09-21
+- [x] I am groot(disny+ 新剧 08-10) 2022-09-21
 - [x] 西部世界(s1-s4) 2022-08-17
-- [ ] 捍卫者联盟 2022-07-25
-- [ ] I am groot(disny+ 新剧 08-10) 2022-07-25
 - [ ] 风骚律师 2022-08-17
 - [ ] 老友记 2022-08-28
 
