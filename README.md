@@ -59,13 +59,13 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] fate zero 2022-08-26
 - [ ] Rick and Morty 2022-09-14
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--12 jobs to do--4 jobs done
-- [x] 随身wifi刷openwrt 2022-09-30
-- [x] 华硕梅林路由器 2022-09-30
-- [x] 小米电视去广告 2022-09-30
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--13 jobs to do--4 jobs done
+- [x] 随身wifi刷openwrt 2022-10-14
+- [x] 华硕梅林路由器 2022-10-14
+- [x] 小米电视去广告 2022-10-14
 - [x] 将图转为矩阵 计算最短路径 和 是否存在环路 2022-09-30
-- [ ] grpc demo 2022-09-30
-- [ ] 读取视频流  2022-09-30
+- [ ] grpc demo 2022-10-14
+- [ ] 读取视频流  2022-10-14
 - [ ] 学习vim里debug 2022-07-19
 - [ ] ~~实时加密的文本编辑器~~ 2022-07-25
 - [ ] 小米IOT开发平台  联动小爱同学 2022-07-25
@@ -78,6 +78,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 
  2022-09-30
 - [ ] 完成flink社区扫盲课  2022-09-30
+- [ ] 部署novelai绘画 闪闪 2022-10-14
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-08-26
@@ -97,13 +98,14 @@ TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 剪辑滑雪的片段 2022-07-25
 
 ## movie
-movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--2 jobs to do--4 jobs done
+movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--3 jobs to do--4 jobs done
 - [x] 奇异博士2 2022-10-03
 - [x] 瞬息全宇宙 2022-10-03
 - [x] 分手的决心 2022-08-28
 - [x] 独行月球 2022-10-03
 - [ ] 超能一家人 2022-10-03
 - [ ] 香水 2022-08-12
+- [ ] 雷神4爱与雷霆 2022-10-03
 
 ## GOLDWORD
  ```
