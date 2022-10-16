@@ -44,17 +44,15 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--3
 - [ ] 硅谷（去字幕） 2022-09-26
 - [ ] v字仇杀队（去字幕） 2022-09-26
 
-TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--5 jobs to do--8 jobs done
-- [x] 进击的巨人 2022-09-14
-- [x] 间谍过家家 2022-09-14
-- [x] 冰海战记 2022-09-14
-- [x] 咒术回战  2022-09-14
-- [x] 东京喰种 2022-09-14
-- [x] 罪恶王冠 2022-09-14
-- [x] 约定的梦幻岛 2022-09-14
+TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--3 jobs to do--8 jobs done
+- [x] 进击的巨人 2022-10-16
+- [x] 间谍过家家 2022-10-16
+- [x] 冰海战记 2022-10-16
+- [x] 咒术回战  2022-10-16
+- [x] 东京喰种 2022-10-16
+- [x] 罪恶王冠 2022-10-16
+- [x] 约定的梦幻岛 2022-10-16
 - [x] jojo的奇妙冒险1 2022-09-08
-- [ ] jojo的奇妙冒险(石之海) 2022-09-14
-- [ ] fate zero 2022-09-14
 - [ ] jojo的奇妙冒险(石之海) 2022-08-26
 - [ ] fate zero 2022-08-26
 - [ ] Rick and Morty 2022-09-14
