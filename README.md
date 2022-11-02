@@ -33,7 +33,7 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 龙族 2022-07-28
 - [ ] 《大问题》 2022-09-13
 
-TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--5 jobs to do--6 jobs done
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--6 jobs to do--6 jobs done
 - [x] 怪奇物语 4 season 2022-11-02
 - [x] 西部世界 2022-11-02
 - [x] 捍卫者联盟 2022-09-21
@@ -45,6 +45,7 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--5
 - [ ] v字仇杀队（去字幕） 2022-09-26
 - [ ] 我的解放日志 2022-10-26
 - [ ] 人生切割术  2022-11-02
+- [ ] 边缘世界 2022-11-02
 
 TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--8 jobs done
 - [x] 进击的巨人 2022-10-18
