@@ -67,18 +67,20 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--14 jobs to do--7 jobs done
-- [x] 随身wifi刷openwrt 2022-12-03
-- [x] 华硕梅林路由器 2022-12-03
-- [x] 小米电视去广告 2022-12-03
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--12 jobs to do--9 jobs done
+- [x] 随身wifi刷openwrt 2022-12-29
+- [x] 华硕梅林路由器 2022-12-29
+- [x] 小米电视去广告 2022-12-29
 - [x] 将图转为矩阵 计算最短路径 和 是否存在环路 2022-09-30
 - [x]  github_pages 制作闪闪回廊  关联   简单加密
 
  2022-11-07
 - [x] 完成flink社区扫盲课  2022-10-17
 - [x] 部署novelai绘画 闪闪 2022-11-07
-- [ ] grpc demo 2022-12-03
-- [ ] 读取视频流  2022-12-03
+- [x] 捡垃圾 做丐版nas   存放闪闪  2022-12-29
+- [x] NAS 2022-12-29
+- [ ] grpc demo 2022-12-29
+- [ ] 读取视频流  2022-12-29
 - [ ] 学习vim里debug 2022-07-19
 - [ ] ~~实时加密的文本编辑器~~ 2022-07-25
 - [ ] 小米IOT开发平台  联动小爱同学 2022-07-25
@@ -88,9 +90,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 - [ ] 笔记  网络文章的互链 tt 相关软件的调研  2022-08-17
 - [ ] 处理视频，人头贴卡通头 2022-09-14
 - [ ] 内网穿透  wireguard  + 云服务器  2022-11-10
-- [ ] 捡垃圾 做丐版nas   存放闪闪  2022-11-10
 - [ ] 做软路由 2022-11-10
-- [ ] NAS 2022-12-03
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-08-26
