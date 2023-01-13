@@ -111,7 +111,7 @@ TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 剪辑滑雪的片段 2022-07-25
 
 ## movie
-movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--3 jobs to do--5 jobs done
+movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlife/issues/5)--4 jobs to do--5 jobs done
 - [x] 奇异博士2 2023-01-13
 - [x] 瞬息全宇宙 2023-01-13
 - [x] 分手的决心 2022-08-28
@@ -120,6 +120,7 @@ movie list from [想看的电影](https://github.com/xingzhuimeteorite/recordlif
 - [ ] 超能一家人 2023-01-13
 - [ ] 香水 2022-08-12
 - [ ] 黑亚当 2023-01-13
+- [ ] 阿丹达2水之道 2023-01-13
 
 ## GOLDWORD
  ```
