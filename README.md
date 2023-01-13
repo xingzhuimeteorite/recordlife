@@ -36,21 +36,22 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 算法之美 2022-12-03
 - [ ] 暗时间 2022-12-03
 
-TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--4 jobs to do--10 jobs done
-- [x] 怪奇物语 4 season 2022-12-15
-- [x] 西部世界 2022-12-15
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--4 jobs to do--11 jobs done
+- [x] 怪奇物语 4 season 2023-01-13
+- [x] 西部世界 2023-01-13
 - [x] 捍卫者联盟 2022-09-21
 - [x] I am groot(disny+ 新剧 08-10) 2022-09-21
 - [x] 西部世界(s1-s4) 2022-08-17
 - [x] 老友记s01-s04 2022-10-16
 - [x] 我的解放日志 2022-12-03
 - [x] 人生切割术 s1 2022-12-03
+- [x] 边缘世界 2023-01-13
 - [x] 没关系，是爱情啊 2022-12-03
 - [x] 星期三 2022-12-15
 - [ ] 风骚律师 2022-08-17
 - [ ] 硅谷（去字幕） 2022-09-26
 - [ ] v字仇杀队（去字幕） 2022-09-26
-- [ ] 边缘世界 2022-11-02
+- [ ] The Wire 2023-01-13
 
 TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--9 jobs done
 - [x] 进击的巨人 2022-12-15
