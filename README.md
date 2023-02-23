@@ -69,7 +69,7 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--11 jobs to do--11 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--12 jobs to do--11 jobs done
 - [x] 随身wifi刷openwrt 2023-02-23
 - [x] 华硕梅林路由器 2023-02-23
 - [x] 小米电视去广告 2023-02-23
@@ -94,6 +94,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 - [ ] 处理视频，人头贴卡通头 2022-09-14
 - [ ] 做软路由 2022-11-10
 - [ ] chatgpt微信版 2023-02-03
+- [ ] nas安装播放器 解决mkv文件无音问题 2023-02-23
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-08-26
