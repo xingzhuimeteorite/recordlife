@@ -93,9 +93,9 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 - [ ] 邮箱过滤处理邮件 2022-08-11
 - [ ] 笔记  网络文章的互链 tt 相关软件的调研  2022-08-17
 - [ ] 处理视频，人头贴卡通头 2022-09-14
-- [ ] chatgpt微信版 2023-02-03
 - [ ] nas安装播放器 解决mkv文件无音问题 2023-02-23
 - [ ] 端口转发配置 2023-03-04
+- [ ] 群机器人 2023-03-04
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-08-26
