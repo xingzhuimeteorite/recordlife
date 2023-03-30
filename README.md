@@ -2,14 +2,19 @@
 laugh and cry
 xingzhuimeteorite/recordlife
 ## 最近更新
+- [要做的事](https://github.com/xingzhuimeteorite/recordlife/issues/12)--2023-03-30
 - [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--2022-06-22
 - [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--2022-06-21
 - [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--2022-06-17
 - [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--2022-06-17
-- [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2022-06-08
 ## GOLDWORD
 - [书摘](https://github.com/xingzhuimeteorite/recordlife/issues/2)--2022-06-01
 ## TODO
+TODO list from [要做的事](https://github.com/xingzhuimeteorite/recordlife/issues/12)--3 jobs to do--0 jobs done
+- [ ] 养狗 2023-03-30
+- [ ] 锻刀 2023-03-30
+- [ ] 酿酒 2023-03-30
+
 TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--6 jobs to do--0 jobs done
 - [ ]  怪物猎人-崛起 2022-12-15
 - [ ] 脑航员2 2022-08-19
@@ -70,7 +75,7 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--15 jobs to do--12 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--16 jobs to do--12 jobs done
 - [x] 随身wifi刷openwrt 2023-03-24
 - [x] 华硕梅林路由器 2023-03-24
 - [x] 小米电视去广告 2023-03-24
@@ -100,6 +105,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 - [ ] chatgpt模型解释 五篇论文 2023-03-04
 - [ ] lora训练ai绘画模型 2023-03-04
 - [ ] 使用ffmpeg剪视频 2023-03-24
+- [ ] ai音乐 指导我五音不全唱歌的创意 2023-03-24
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--4 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2022-08-26
