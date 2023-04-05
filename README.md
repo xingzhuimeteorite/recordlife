@@ -42,7 +42,7 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 暗时间 2022-12-03
 - [ ] neutral network and deep Learning 2023-03-15
 
-TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--6 jobs to do--11 jobs done
+TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--5 jobs to do--12 jobs done
 - [x] 怪奇物语 4 season 2023-04-05
 - [x] 西部世界 2023-04-05
 - [x] 捍卫者联盟 2022-09-21
@@ -54,12 +54,12 @@ TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--6
 - [x] 边缘世界 2023-01-13
 - [x] 没关系，是爱情啊 2022-12-03
 - [x] 星期三 2022-12-15
+- [x] 《the last of us》 2023-04-05
 - [ ] 风骚律师 2022-08-17
 - [ ] 硅谷（去字幕） 2022-09-26
 - [ ] v字仇杀队（去字幕） 2022-09-26
 - [ ] The Wire 2023-01-13
 - [ ] 逃避虽然可耻但是有用 2023-01-14
-- [ ] 《the last of us》 2023-04-05
 
 TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8)--4 jobs to do--9 jobs done
 - [x] 进击的巨人 2022-12-15
