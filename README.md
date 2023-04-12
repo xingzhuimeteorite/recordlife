@@ -78,10 +78,10 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--16 jobs to do--12 jobs done
-- [x] 随身wifi刷openwrt 2023-03-24
-- [x] 华硕梅林路由器 2023-03-24
-- [x] 小米电视去广告 2023-03-24
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--14 jobs to do--14 jobs done
+- [x] 随身wifi刷openwrt 2023-04-12
+- [x] 华硕梅林路由器 2023-04-12
+- [x] 小米电视去广告 2023-04-12
 - [x] 小米IOT开发平台  联动小爱同学 2023-02-23
 - [x] 将图转为矩阵 计算最短路径 和 是否存在环路 2022-09-30
 - [x]  github_pages 制作闪闪回廊  关联   简单加密
@@ -93,8 +93,10 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 - [x] 捡垃圾 做丐版nas   存放闪闪  2022-12-29
 - [x] 做软路由 2023-03-04
 - [x] NAS 2022-12-29
-- [ ] grpc demo 2023-03-24
-- [ ] 读取视频流  2023-03-24
+- [x] 端口转发配置 2023-04-12
+- [x] 群机器人 2023-04-12
+- [ ] grpc demo 2023-04-12
+- [ ] 读取视频流  2023-04-12
 - [ ] 学习vim里debug 2022-07-19
 - [ ] ~~实时加密的文本编辑器~~ 2022-07-25
 - [ ] 制作一个网站（funny 404） 排列和uu们的活动  评论 施行建议 等等  2022-08-08
@@ -103,8 +105,6 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--1
 - [ ] 笔记  网络文章的互链 tt 相关软件的调研  2022-08-17
 - [ ] 处理视频，人头贴卡通头 2022-09-14
 - [ ] nas安装播放器 解决mkv文件无音问题 2023-02-23
-- [ ] 端口转发配置 2023-03-04
-- [ ] 群机器人 2023-03-04
 - [ ] chatgpt模型解释 五篇论文 2023-03-04
 - [ ] lora训练ai绘画模型 2023-03-04
 - [ ] 使用ffmpeg剪视频 2023-03-24
