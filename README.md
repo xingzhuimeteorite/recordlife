@@ -78,10 +78,10 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--20 jobs to do--14 jobs done
-- [x] 随身wifi刷openwrt 2023-05-07
-- [x] 华硕梅林路由器 2023-05-07
-- [x] 小米电视去广告 2023-05-07
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--21 jobs to do--14 jobs done
+- [x] 随身wifi刷openwrt 2023-05-14
+- [x] 华硕梅林路由器 2023-05-14
+- [x] 小米电视去广告 2023-05-14
 - [x] 小米IOT开发平台  联动小爱同学 2023-02-23
 - [x] 将图转为矩阵 计算最短路径 和 是否存在环路 2022-09-30
 - [x]  github_pages 制作闪闪回廊  关联   简单加密
@@ -95,8 +95,8 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [x] NAS 2022-12-29
 - [x] 端口转发配置 2023-04-12
 - [x] 群机器人 2023-04-12
-- [ ] grpc demo 2023-05-07
-- [ ] 读取视频流  2023-05-07
+- [ ] grpc demo 2023-05-14
+- [ ] 读取视频流  2023-05-14
 - [ ] 学习vim里debug 2022-07-19
 - [ ] ~~实时加密的文本编辑器~~ 2022-07-25
 - [ ] 制作一个网站（funny 404） 排列和uu们的活动  评论 施行建议 等等  2022-08-08
@@ -115,6 +115,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [ ] 找到稳定使用chatgpt的放弃 封号…… 2023-05-07
 - [ ] 试验langchain的应用 2023-05-07
 - [ ] langchain搭建hudi flink文档知识库 2023-05-07
+- [ ] 文本总结能力，tg discord 的文本，汇总简报 2023-05-14
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2023-04-04
