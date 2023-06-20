@@ -78,7 +78,7 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--20 jobs to do--18 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--21 jobs to do--18 jobs done
 - [x] 随身wifi刷openwrt 2023-06-20
 - [x] 华硕梅林路由器 2023-06-20
 - [x] 小米电视去广告 2023-06-20
@@ -119,6 +119,7 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [ ] 分析周围环境图片 生成配图文字，ai给出行动建议  在这样的场景下可以做什么，什么姿势拍照 2023-06-20
 - [ ] vr星象应用 仰望苍穹获得天启 侦测到你的目光在天狼星注视了五分钟，你就是天的传人 2023-06-20
 - [ ] 个人助理系统。 比如放置我要调度的事件 待办  设备信息？ 助手？ 2023-06-20
+- [ ] 基于已有的购物历史，推断要买的东西 已经消耗完？基于前置商品的缺陷，进行新商品推荐？价格曲线，消费水准，配色 2023-06-20
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2023-04-04
