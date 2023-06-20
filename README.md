@@ -78,7 +78,7 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--20 jobs to do--15 jobs done
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--17 jobs to do--18 jobs done
 - [x] 随身wifi刷openwrt 2023-06-20
 - [x] 华硕梅林路由器 2023-06-20
 - [x] 小米电视去广告 2023-06-20
@@ -96,6 +96,9 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [x] NAS 2022-12-29
 - [x] 端口转发配置 2023-04-12
 - [x] 群机器人 2023-04-12
+- [x] lora训练ai绘画模型 2023-06-20
+- [x] 使用ffmpeg剪视频 2023-06-20
+- [x] 找到稳定使用chatgpt的放弃 封号…… 2023-06-20
 - [ ] grpc demo 2023-06-20
 - [ ] 读取视频流  2023-06-20
 - [ ] 学习vim里debug 2022-07-19
@@ -106,13 +109,10 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [ ] 处理视频，人头贴卡通头 2022-09-14
 - [ ] nas安装播放器 解决mkv文件无音问题 2023-02-23
 - [ ] chatgpt模型解释 五篇论文 2023-03-04
-- [ ] lora训练ai绘画模型 2023-03-04
-- [ ] 使用ffmpeg剪视频 2023-03-24
 - [ ] ai音乐 指导我五音不全唱歌的创意 2023-03-24
 - [ ] 训练闪闪的模型 进行闪闪宇宙的尝试 2023-04-12
 - [ ] cloudflare 研究一下 2023-04-13
 - [ ] 为龙族做ai插画 2023-04-19
-- [ ] 找到稳定使用chatgpt的放弃 封号…… 2023-05-07
 - [ ] 试验langchain的应用 2023-05-07
 - [ ] langchain搭建hudi flink文档知识库 2023-05-07
 - [ ] 文本总结能力，tg discord 的文本，汇总简报 2023-05-14
