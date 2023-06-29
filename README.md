@@ -79,10 +79,10 @@ TODO list from [动漫](https://github.com/xingzhuimeteorite/recordlife/issues/8
 - [ ] Rick and Morty 2022-09-14
 - [ ] 夏目友人帐 2022-10-18
 
-TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--21 jobs to do--18 jobs done
-- [x] 随身wifi刷openwrt 2023-06-20
-- [x] 华硕梅林路由器 2023-06-20
-- [x] 小米电视去广告 2023-06-20
+TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--22 jobs to do--18 jobs done
+- [x] 随身wifi刷openwrt 2023-06-29
+- [x] 华硕梅林路由器 2023-06-29
+- [x] 小米电视去广告 2023-06-29
 - [x] ~~实时加密的文本编辑器~~ 2023-06-20
 - [x] 小米IOT开发平台  联动小爱同学 2023-02-23
 - [x] 将图转为矩阵 计算最短路径 和 是否存在环路 2022-09-30
@@ -100,8 +100,8 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [x] lora训练ai绘画模型 2023-06-20
 - [x] 使用ffmpeg剪视频 2023-06-20
 - [x] 找到稳定使用chatgpt的放弃 封号…… 2023-06-20
-- [ ] grpc demo 2023-06-20
-- [ ] 读取视频流  2023-06-20
+- [ ] grpc demo 2023-06-29
+- [ ] 读取视频流  2023-06-29
 - [ ] 学习vim里debug 2022-07-19
 - [ ] 制作一个网站（funny 404） 排列和uu们的活动  评论 施行建议 等等  2022-08-08
 - [ ] 爬取制作格鲁特图片 2022-08-10
@@ -121,6 +121,8 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [ ] vr星象应用 仰望苍穹获得天启 侦测到你的目光在天狼星注视了五分钟，你就是天的传人 2023-06-20
 - [ ] 个人助理系统。 比如放置我要调度的事件 待办  设备信息？ 助手？ 2023-06-20
 - [ ] 基于已有的购物历史，推断要买的东西 已经消耗完？基于前置商品的缺陷，进行新商品推荐？价格曲线，消费水准，配色 2023-06-20
+- [ ] 视频解析我的羽毛球动作，规范我的动作
+同理飞盘 2023-06-29
 
 TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--3 jobs done
 - [x] 程序员修炼之道-从小工到专家 2023-04-04
