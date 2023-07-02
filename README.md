@@ -124,16 +124,18 @@ TODO list from [IT](https://github.com/xingzhuimeteorite/recordlife/issues/7)--2
 - [ ] 视频解析我的羽毛球动作，规范我的动作
 同理飞盘 2023-06-29
 
-TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--5 jobs to do--3 jobs done
-- [x] 程序员修炼之道-从小工到专家 2023-04-04
-- [x] 计算机程序的构造和解释 2023-04-04
+TODO list from [要读的书](https://github.com/xingzhuimeteorite/recordlife/issues/6)--6 jobs to do--4 jobs done
+- [x] 程序员修炼之道-从小工到专家 2023-07-02
+- [x] 计算机程序的构造和解释 2023-07-02
 - [x] 代码大全 2022-08-26
+- [x] 《沉默的大多数》 2023-07-02
 - [ ] DDIA 2022-08-26
 - [ ] 计算机网络（自顶向下方法）
  2022-08-26
 - [ ] MIT-IAP 网站小课  2022-08-26
 - [ ] 人月神话  2022-08-26
 - [ ] 《doom启示录》 2023-04-04
+- [ ] 《所有工具都是锤子》 2023-07-02
 
 TODO list from [视频剪辑](https://github.com/xingzhuimeteorite/recordlife/issues/4)--5 jobs to do--0 jobs done
 - [ ] shotcut 安装 2022-07-25
