@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xingzhuimeteorite/recordlife</id><title>RSS feed of xingzhuimeteorite's recordlife</title><updated>2023-07-02T08:31:27.984602+00:00</updated><author><name>xingzhuimeteorite</name><email>1129514580@qq.com</email></author><link href="https://github.com/xingzhuimeteorite/recordlife"/><link href="https://raw.githubusercontent.com/xingzhuimeteorite/recordlife/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/12</id><title>要做的事</title><updated>2023-07-02T08:31:28.300144+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xingzhuimeteorite/recordlife</id><title>RSS feed of xingzhuimeteorite's recordlife</title><updated>2023-07-02T15:19:04.432242+00:00</updated><author><name>xingzhuimeteorite</name><email>1129514580@qq.com</email></author><link href="https://github.com/xingzhuimeteorite/recordlife"/><link href="https://raw.githubusercontent.com/xingzhuimeteorite/recordlife/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/12</id><title>要做的事</title><updated>2023-07-02T15:19:04.694702+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> 养狗</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/12" rel="alternate"/><category term="TODO"/><published>2023-03-30T15:30:15+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/11</id><title>游戏</title><updated>2023-07-02T08:31:28.417977+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/12" rel="alternate"/><category term="TODO"/><published>2023-03-30T15:30:15+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/11</id><title>游戏</title><updated>2023-07-02T15:19:04.809355+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox">  怪物猎人-崛起</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/11" rel="alternate"/><category term="TODO"/><published>2022-06-22T07:09:36+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/10</id><title>要看的书</title><updated>2023-07-02T08:31:28.527910+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/11" rel="alternate"/><category term="TODO"/><published>2022-06-22T07:09:36+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/10</id><title>要看的书</title><updated>2023-07-02T15:19:04.945121+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 爱的艺术</li>
 <li><input checked="" disabled="" type="checkbox"> 黄金时代</li>
 <li><input checked="" disabled="" type="checkbox"> 我的精神家园  -王小波</li>
@@ -13,11 +13,11 @@
 <li><input checked="" disabled="" type="checkbox"> 三体</li>
 <li><input checked="" disabled="" type="checkbox"> 简单的逻辑学</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/10" rel="alternate"/><category term="TODO"/><published>2022-06-21T01:58:47+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/9</id><title>TV</title><updated>2023-07-02T08:31:28.652487+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/10" rel="alternate"/><category term="TODO"/><published>2022-06-21T01:58:47+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/9</id><title>TV</title><updated>2023-07-02T15:19:05.054490+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 怪奇物语 4 season</li>
 <li><input checked="" disabled="" type="checkbox"> 西部世界</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/9" rel="alternate"/><category term="TODO"/><published>2022-06-17T01:35:48+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/8</id><title>动漫</title><updated>2023-07-02T08:31:28.762437+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/9" rel="alternate"/><category term="TODO"/><published>2022-06-17T01:35:48+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/8</id><title>动漫</title><updated>2023-07-02T15:19:05.175167+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 进击的巨人</li>
 <li><input checked="" disabled="" type="checkbox"> 间谍过家家</li>
 <li><input checked="" disabled="" type="checkbox"> 冰海战记</li>
@@ -26,29 +26,29 @@
 <li><input checked="" disabled="" type="checkbox"> 罪恶王冠</li>
 <li><input checked="" disabled="" type="checkbox"> 约定的梦幻岛</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/8" rel="alternate"/><category term="TODO"/><published>2022-06-17T01:32:08+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/7</id><title>IT</title><updated>2023-07-02T08:31:28.886334+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/8" rel="alternate"/><category term="TODO"/><published>2022-06-17T01:32:08+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/7</id><title>IT</title><updated>2023-07-02T15:19:05.295923+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 随身wifi刷openwrt</li>
 <li><input checked="" disabled="" type="checkbox"> 华硕梅林路由器</li>
 <li><input checked="" disabled="" type="checkbox"> 小米电视去广告</li>
 <li><input disabled="" type="checkbox"> grpc demo</li>
 <li><input disabled="" type="checkbox"> 读取视频流 </li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/7" rel="alternate"/><category term="TODO"/><published>2022-06-08T01:41:00+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/6</id><title>要读的书</title><updated>2023-07-02T08:31:29.004007+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/7" rel="alternate"/><category term="TODO"/><published>2022-06-08T01:41:00+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/6</id><title>要读的书</title><updated>2023-07-02T15:19:05.415373+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 程序员修炼之道-从小工到专家</li>
 <li><input checked="" disabled="" type="checkbox"> 计算机程序的构造和解释</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/6" rel="alternate"/><category term="TODO"/><published>2022-06-07T09:56:39+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/5</id><title>想看的电影</title><updated>2023-07-02T08:31:29.122569+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/6" rel="alternate"/><category term="TODO"/><published>2022-06-07T09:56:39+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/5</id><title>想看的电影</title><updated>2023-07-02T15:19:05.536351+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 奇异博士2</li>
 <li><input checked="" disabled="" type="checkbox"> 瞬息全宇宙</li>
 <li><input disabled="" type="checkbox"> 超能一家人</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/5" rel="alternate"/><category term="MOVIE"/><published>2022-06-07T09:40:34+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/4</id><title>视频剪辑</title><updated>2023-07-02T08:31:29.232630+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/5" rel="alternate"/><category term="MOVIE"/><published>2022-06-07T09:40:34+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/4</id><title>视频剪辑</title><updated>2023-07-02T15:19:05.661435+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> shotcut 安装</li>
 <li><input disabled="" type="checkbox"> 飞盘素材的粗剪辑</li>
 <li><input disabled="" type="checkbox">  剪辑那段语音文字</li>
 </ul>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/4" rel="alternate"/><category term="TODO"/><published>2022-06-04T17:35:09+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/2</id><title>书摘</title><updated>2023-07-02T08:31:29.359674+00:00</updated><content type="html"><![CDATA[<p>追星
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/4" rel="alternate"/><category term="TODO"/><published>2022-06-04T17:35:09+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/2</id><title>书摘</title><updated>2023-07-02T15:19:05.783329+00:00</updated><content type="html"><![CDATA[<p>追星
 王小波
 我认为明星崇拜是一种癫狂症，病根不在明星身上，而是在追星族的身上。理由很简单明星不过是一百斤左右的血肉之躯，体内不可能有那么多有害的物质，散发出来时，可以让数万人发狂。</p>
-]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/2" rel="alternate"/><category term="GOLDWORD"/><published>2022-06-01T08:45:06+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/1</id><title>record laugh and cry</title><updated>2023-07-02T08:31:29.484131+00:00</updated><content type="html"><![CDATA[<p>记录这莫名的生活  寻找虚无的意义</p>
+]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/2" rel="alternate"/><category term="GOLDWORD"/><published>2022-06-01T08:45:06+00:00</published></entry><entry><id>https://github.com/xingzhuimeteorite/recordlife/issues/1</id><title>record laugh and cry</title><updated>2023-07-02T15:19:05.899701+00:00</updated><content type="html"><![CDATA[<p>记录这莫名的生活  寻找虚无的意义</p>
 ]]></content><link href="https://github.com/xingzhuimeteorite/recordlife/issues/1" rel="alternate"/><published>2022-05-31T08:39:42+00:00</published></entry></feed>
