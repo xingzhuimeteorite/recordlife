@@ -23,13 +23,13 @@ TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/1
 - [ ] tunic 2022-09-21
 - [ ] 巫师3•狂猎 2022-12-15
 
-TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--9 jobs to do--8 jobs done
-- [x] 爱的艺术 2023-04-12
-- [x] 黄金时代 2023-04-12
-- [x] 我的精神家园  -王小波 2023-04-12
-- [x] 红拂夜奔 2023-04-12
-- [x] 三体 2023-04-12
-- [x] 简单的逻辑学 2023-04-12
+TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/issues/10)--10 jobs to do--8 jobs done
+- [x] 爱的艺术 2023-08-18
+- [x] 黄金时代 2023-08-18
+- [x] 我的精神家园  -王小波 2023-08-18
+- [x] 红拂夜奔 2023-08-18
+- [x] 三体 2023-08-18
+- [x] 简单的逻辑学 2023-08-18
 - [x] 习惯的力量 2022-07-22
 - [x] 算法之美 2023-03-15
 - [ ] 人的脑洞略大于整个宇宙 2022-07-20
@@ -42,6 +42,7 @@ TODO list from [要看的书](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 暗时间 2022-12-03
 - [ ] neutral network and deep Learning 2023-03-15
 - [ ] 料理图鉴 2023-04-12
+- [ ] 《禅与摩托车维修艺术》 2023-08-18
 
 TODO list from [TV](https://github.com/xingzhuimeteorite/recordlife/issues/9)--6 jobs to do--15 jobs done
 - [x] 怪奇物语 4 season 2023-07-31
