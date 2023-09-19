@@ -15,8 +15,9 @@ TODO list from [要做的事](https://github.com/xingzhuimeteorite/recordlife/is
 - [ ] 锻刀 2023-03-30
 - [ ] 酿酒 2023-03-30
 
-TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--6 jobs to do--0 jobs done
-- [ ]  怪物猎人-崛起 2022-12-15
+TODO list from [游戏](https://github.com/xingzhuimeteorite/recordlife/issues/11)--6 jobs to do--1 jobs done
+- [x] 博德之门3 2023-09-19
+- [ ]  怪物猎人-崛起 2023-09-19
 - [ ] 脑航员2 2022-08-19
 - [ ] 养只边牧去放羊 2022-08-26
 - [ ] 喷射战士3 2022-09-21
